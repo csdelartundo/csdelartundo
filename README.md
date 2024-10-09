@@ -8,10 +8,6 @@ Actualmente, estoy realizando un curso de **diseño web y experiencia de usuario
 
 Vivo en **Cabrero, Región del Biobío, Chile**, y estoy apasionada por crear soluciones que ofrezcan una excelente experiencia al usuario.
 
-## 📫 Contacto:
-
-- **Email:** [csdelartundo@gmail.com](mailto:csdelartundo@gmail.com)
-- **GitHub:** [github.com/csdelartundo](https://github.com/csdelartundo)
 
 
 <!--
