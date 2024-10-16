@@ -1,13 +1,12 @@
 # 👋 ¡Hola Mundo! Soy Constanza
 
-Soy desarrolladora Front End, egresada de Desafío Latam. 
+Soy desarrolladora Front End, egresada de Desafío Latam. Tengo experiencia trabajando en aplicaciones con tecnologías como **Vue.js**, **Git**, **Firebase** y **Bootstrap**. Manejo lenguajes como **JavaScript**, **HTML** y **CSS**, y actualmente estoy aprendiendo a trabajar con **Tailwind CSS** para mejorar la estética y funcionalidad de mis proyectos.
 
-Tengo experiencia trabajando en aplicaciones con tecnologías como **Vue.js**, **Git** y **Bootstrap**. Manejo lenguajes como **JavaScript**, **HTML** y **CSS**, y estoy aprendiendo a trabajar con **Tailwind CSS**. 
+Mi pasión por el desarrollo me ha llevado a realizar un curso de **diseño web y experiencia de usuario (UX/UI)**, donde busco comprender mejor las necesidades del usuario y cómo satisfacerlas mediante soluciones efectivas. 
 
-Actualmente, estoy realizando un curso de **diseño web y experiencia de usuario (UX/UI)** para complementar mis habilidades.
+Soy una profesional organizada, con habilidades para trabajar en equipo y una buena comunicación. Busco constantemente aprender y crecer en el mundo TI, con el objetivo de contribuir al desarrollo de soluciones tecnológicas sostenibles.
 
-Vivo en **Cabrero, Región del Biobío, Chile**, y estoy apasionada por crear soluciones que ofrezcan una excelente experiencia al usuario.
-
+Vivo en **Cabrero, Región del Biobío, Chile**, y estoy emocionada por la oportunidad de conectar con otros profesionales del sector. ¡Hagamos grandes cosas juntos!
 
 
 <!--
